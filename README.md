@@ -1,1 +1,1 @@
-# Manual-tests
+# Manual-tests logged in Jira
